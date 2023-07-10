@@ -1,0 +1,157 @@
+
+nav{
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+}
+.n{
+    text-decoration: none;
+    color: #333;
+    font-size: large;
+}
+.logo{
+    width: 2.5cm;
+    height: 2.5cm;
+}
+li.active a{
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navform{
+    float: right;
+    margin-top: 80px;
+}
+.btny{
+    float: right;
+    background-color: rgb(255, 191, 0);
+    margin-right: -150px;
+    margin-top: 3px;
+    width: 3cm;
+    height: 1cm;
+    font-size: medium;
+    border-color: rgb(255, 191, 0);
+
+}
+.sbar{
+    height: 0.5cm;
+    width: 4cm;
+}
+.box1{
+    border: 1cm;
+    border-color: black;
+}
+.bundle{
+    width: 70%;
+    height: 70%;
+}
+fieldset{
+    border: solid 1px rgba(0, 0, 0, 0.278);
+    float: left;
+    vertical-align: middle;
+}
+p{
+    font-size : 18px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.breakfast{
+    width: 70%;
+    height: 70%;
+}
+.burgers{
+    width: 70%;
+    height: 70%;
+}
+.chicken{
+    width: 70%;
+    height: 70%;
+}
+.cafe{
+    width: 70%;
+    height: 70%;
+}
+.drinks{
+    width: 70%;
+    height: 70%;
+}
+.fieldset-content{
+    margin-top: 10px;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 3.5cm;
+}
+.menu-img{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    padding: 15px;
+}
+.b{
+    width: 60%;
+    height:60%;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.mimg{
+    width: 50%;
+    height: 120%;
+    text-align: center;
+    vertical-align: middle;
+}
+.box2{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.btny2{
+    border-color: rgb(255, 191, 0);
+    background-color: rgb(255, 191, 0);
+    width: 5.5cm;
+    height: 1.3cm;
+    font-size: medium;
+
+}
+.desc{
+    font-weight: light;
+    font-size: 16px;
+}
+.order1{
+    padding:0%;
+    margin-left:auto;
+    margin-right: auto;
+}
+.end{
+    background-color: #f2f2f2;
+}
+td{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.foot{
+    border-spacing: 2px;
+    margin-left: 5px;
+
+}
+
+.foot{
+    text-decoration: none;
+    text-align: left;
+}
